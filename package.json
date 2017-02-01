@@ -1,0 +1,9 @@
+//SEMVER - 2: Major Version, 69: Minor Version, 0: Patch
+
+{
+  "name": "Learning Node",
+  "version":"0.0.1",
+  "dependencies": {
+    "request": "~2.79.0"
+  }
+}
